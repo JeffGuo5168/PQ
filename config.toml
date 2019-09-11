@@ -1,8 +1,8 @@
-baseURL = "/"
+baseURL = "/pq"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "DocDock Documentation"
+title = "Jeff's PQ DocDock"
 theme = "docdock"
 publishDir = "docs"
 # themesdir = "../.."
