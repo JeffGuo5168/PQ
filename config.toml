@@ -13,6 +13,8 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
+comments: false
+
 
 # [Languages]
 # [Languages.en]
