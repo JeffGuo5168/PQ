@@ -1,4 +1,4 @@
-baseURL = "/pq"
+baseURL = "pq"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
